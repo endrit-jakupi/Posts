@@ -1,3 +1,3 @@
 PRISMA_SECRET=my-secret
-PRISMA_ENDPOINT=http://localhost:4467/prisma/dev
+PRISMA_ENDPOINT=http://98.71.25.213:4467/prisma/dev
 PRISMA_MANAGEMENT_API_SECRET=my-secret
