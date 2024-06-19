@@ -1,4 +1,4 @@
-# source: http://20.82.140.155:4467/prisma/dev
+# source: http://localhost:4467/prisma/dev
 # timestamp: Sun Sep 5 2022 13:07:13 GMT+0200 (Central European Summer Time)
 
 type AggregateComent {

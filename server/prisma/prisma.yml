@@ -1,4 +1,4 @@
 
-endpoint: http://20.82.140.155:4467/prisma/dev
+endpoint: http://localhost:4467/prisma/dev
 datamodel:
   - datamodel.graphql 

@@ -4,7 +4,7 @@ import { Prisma } from 'prisma-binding'
 
 const prisma = new Prisma({
     typeDefs: 'src/generated/prisma.graphql',
-    endpoint: 'http://20.82.140.155:4467/prisma/dev',
+    endpoint: 'http://localhost:4467/prisma/dev',
 });
 
 export { prisma as default }
